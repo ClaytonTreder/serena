@@ -13,7 +13,7 @@ Setup:
     5. Install the VS Code extentsion 'Live Server' Refer to 'Live_Server.png'
 
 Work:
-    1. Create a file called index.js within homework/into/results
+    1. Create a file called index.js within homework/intro/results
     2. Update the index.html file in the root of the folder to import this file
     3. Open the file with Live Server
     4. Create an Alert to show on the web browser that says the following and screenshot the results:
