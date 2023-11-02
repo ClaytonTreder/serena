@@ -1,0 +1,24 @@
+Homework for the introduction to the class.
+
+Follow and complete the following steps:
+
+Setup:
+    1. Navigate to https://github.com/ClaytonTreder/serena
+    2. Download the Repo. Refer to 'Download_Repo.png'
+    3. Unzip the folder and move it to the desktop
+    4. Download and Install Visual Studio Code:
+        a. Navigate to https://code.visualstudio.com/
+        b. Install the application
+        c. Open VS Code and open the folder on your desktop. Refer to 'Open_Folder.png'
+    5. Install the VS Code extentsion 'Live Server' Refer to 'Live_Server.png'
+
+Work:
+    1. Create a file called index.js within homework/into/results
+    2. Update the index.html file in the root of the folder to import this file
+    3. Open the file with Live Server
+    4. Create an Alert to show on the web browser that says the following and screenshot the results:
+        'Hello, I am an alert!'
+    5. Comment out the code that accomplished this
+    6. Log the following to the console and take a screen shot of the results:
+        'Hello, I was logged to the console.'
+    7. Email your index.js file and screenshots to cjtreder@gmail.com
